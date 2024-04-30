@@ -1,1 +1,1 @@
-# GAN
+# Cycle GAN
